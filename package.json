@@ -1,0 +1,19 @@
+{
+  "name": "@origraph/origraph-js-dri",
+  "version": "0.1.0",
+  "description": "plugin to derive new attributes from existing ones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/origraph/origraph-js-dri.git"
+  },
+  "author": "Alex Bigelow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/origraph/origraph-js-dri/issues"
+  },
+  "homepage": "https://github.com/origraph/origraph-js-dri#readme"
+}
